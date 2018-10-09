@@ -9,7 +9,7 @@
     > mkdir -p /data/db
     > ./mongod
     >
-    > # The mongo javascript shell connects to localhost and test database by default:
+   The mongo javascript shell connects to localhost and test database by default:
     > ./mongo
     >> help
 	
