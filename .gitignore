@@ -8,3 +8,12 @@ spring-microservices-oauth-server/target/classes/application.properties
 spring-microservices-oauth-server/target/classes/META-INF/MANIFEST.MF
 spring-microservices-oauth-server/target/classes/META-INF/maven/com.vipul.cloud/spring-microservices-oauth-server/pom.xml
 spring-microservices-oauth-server/target/classes/META-INF/maven/com.vipul.cloud/spring-microservices-oauth-server/pom.properties
+SpringBoot-MongoDB/.classpath
+SpringBoot-MongoDB/.project
+SpringBoot-MongoDB/.settings/org.eclipse.wst.common.project.facet.core.xml
+SpringBoot-MongoDB/target/classes/application.properties
+SpringBoot-MongoDB/target/classes/META-INF/MANIFEST.MF
+SpringBoot-MongoDB/target/classes/META-INF/maven/org.springframework/gs-accessing-data-mongodb/pom.properties
+SpringBoot-MongoDB/target/classes/META-INF/maven/org.springframework/gs-accessing-data-mongodb/pom.xml
+SpringBoot-MongoDB/target/classes/META-INF/maven/org.springframework/SpringBoot-MongoDB/pom.properties
+SpringBoot-MongoDB/target/classes/META-INF/maven/org.springframework/SpringBoot-MongoDB/pom.xml
