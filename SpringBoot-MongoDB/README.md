@@ -14,9 +14,9 @@
     >> help
 	
 	For Windows, 
-	a. copy mongod.cfg from [mongod.cfg](src/test/resource/mongod.cfg)
-	b. run mongod.exe in one terminal
-	c. run mongo.exe in separate window
+	1. copy mongod.cfg from [mongod.cfg](src/test/resource/mongod.cfg)
+	2. run mongod.exe in one terminal
+	3. run mongo.exe in separate window
 
 3. Run commnand present in [usercreationcommand.mongo](src/test/resource/usercreationcommand.mongo) to create root user
 
