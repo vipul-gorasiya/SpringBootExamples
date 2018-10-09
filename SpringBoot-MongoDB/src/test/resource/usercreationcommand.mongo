@@ -1,0 +1,9 @@
+db.runCommand({ createUser: "root",
+	  pwd: "root",
+	  roles: [
+			   { role: "clusterAdmin", db: "admin" },
+			   { role: "readAnyDatabase", db: "admin" },
+			   "readWrite"
+			 ],
+	  writeConcern: { w: "majority" , wtimeout: 5000 }
+   }) ;
